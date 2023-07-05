@@ -32,4 +32,47 @@ Magical Mischief: A Harry Potter Adventure, Created by me, M Varsha along with m
 
 ## Screenshots
 
+GET STARTED:-
+
+![getstarted](https://github.com/Varsha-7007/Magical_Mischief/assets/113261323/42bc75c9-393d-42cc-866b-327926396274)
+
+
+
+BEGIN:-
+
+![Begin](https://github.com/Varsha-7007/Magical_Mischief/assets/113261323/f5b2590c-db97-4b12-ad09-feb20a98d770)
+
+QUIZ:-
+
+![q1](https://github.com/Varsha-7007/Magical_Mischief/assets/113261323/c2b267df-1694-4a44-97ff-808c0b807d84)
+![q2](https://github.com/Varsha-7007/Magical_Mischief/assets/113261323/0e311b39-2268-45c1-bba5-5e445c7a8c36)
+![q3](https://github.com/Varsha-7007/Magical_Mischief/assets/113261323/cef6be08-ec67-4266-9a1d-bf5ba70901ea)
+![q4](https://github.com/Varsha-7007/Magical_Mischief/assets/113261323/5b090547-a611-4008-90d4-8b7ad63c2d8f)
+![q5](https://github.com/Varsha-7007/Magical_Mischief/assets/113261323/dbba49fd-cf90-4185-905f-29eb5384b81d)
+![q6](https://github.com/Varsha-7007/Magical_Mischief/assets/113261323/16f51d7f-b142-4605-aad7-e4d998ba20a0)
+
+BOOKS:-
+
+![b1](https://github.com/Varsha-7007/Magical_Mischief/assets/113261323/c188a14f-6f0c-4305-9f0f-b2e1365fc2c6)
+![b2](https://github.com/Varsha-7007/Magical_Mischief/assets/113261323/b7b424a6-2059-42bc-8e58-7cbf2d91293d)
+![b3](https://github.com/Varsha-7007/Magical_Mischief/assets/113261323/75cb715f-50c5-4e1c-8c9e-8a012a299e44)
+
+FUN FACTS:-
+
+![f1](https://github.com/Varsha-7007/Magical_Mischief/assets/113261323/d2e4a65c-7525-429d-9477-dd4f712700b3)
+![f2](https://github.com/Varsha-7007/Magical_Mischief/assets/113261323/739a02b7-c176-430a-95b9-ab80478b1b22)
+![f3](https://github.com/Varsha-7007/Magical_Mischief/assets/113261323/f3c1f27b-ad13-430a-841b-0daf89fb9754)
+
+MERCHANDISE:-
+
+![m1](https://github.com/Varsha-7007/Magical_Mischief/assets/113261323/2a2d5bc4-f2a6-45fb-a8ef-f0c93a44633e)
+![m2](https://github.com/Varsha-7007/Magical_Mischief/assets/113261323/80cfb825-ac0f-45d5-b70b-ad7e2a2087ed)
+![m3](https://github.com/Varsha-7007/Magical_Mischief/assets/113261323/78554cec-64bc-4ad2-864a-b34f0482cb78)
+![m4](https://github.com/Varsha-7007/Magical_Mischief/assets/113261323/d4bdccaf-bf2c-45bb-bfea-1c95dcaf960d)
+
+
+
+
+
+
 
